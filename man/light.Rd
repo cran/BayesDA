@@ -16,12 +16,6 @@
   The currently accepted value for the speed of light on this scale 
   is 33.0.
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(light)
 comment(light)

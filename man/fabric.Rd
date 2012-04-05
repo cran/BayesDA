@@ -17,12 +17,6 @@
 \details{
     The book uses this for exercise 5. page 441
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(fabric)
 str(fabric)

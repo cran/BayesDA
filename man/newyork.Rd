@@ -18,12 +18,6 @@
 \details{
   Discussed on page 265 of second edition.
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(newyork)
 str(newyork)

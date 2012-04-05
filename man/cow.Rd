@@ -30,15 +30,6 @@
     \item{\code{protein}}{response}
   }
 }
-\details{
-  
-}
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(cow)
 summary(cow)

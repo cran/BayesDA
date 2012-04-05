@@ -35,20 +35,21 @@
   }
 }
 \details{
-  Football experts provide the point spread as a measure of the difference in ability between the two teams.  
-  For example, team A might be a 3.5 favourite to team B. The implication of this is that the proposition
-  that team A, the favourite, defeats team B, the underdog, by 4 or more points, are considered a fair bet. 
+  Football experts provide the point spread as a measure of the
+  difference in 
+  ability between the two teams.  
+  For example, team A might be a 3.5 favourite to team B.
+  The implication of this is that the proposition
+  that team A, the favourite, defeats team B, the underdog,
+  by 4 or more points, are considered a fair bet. 
   In other words, the probability that A wins by more than 3.5 points is 0.5.  
-  If the point spread are an integer, then the implication is that team A is as likely to win by more 
-  points than the point spread as it is to win by fewer points than the point spread (or to loose). 
+  If the point spread are an integer, then the implication is that team
+A 
+is as likely to win by more 
+points than the point spread as it is to win by fewer points
+than the point spread (or to loose). 
   If the 
   win is by exactly the point spread then neither side is paid off.  
-}
-\source{
-  
-}
-\references{
-  
 }
 \examples{
 data(football)

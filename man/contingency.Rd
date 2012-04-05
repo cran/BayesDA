@@ -23,12 +23,6 @@
   (3)  solid reading, (4)  lectures.  The book (page 437) is fitting
   Bayesian loglinear models.
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(contingency)
 

@@ -19,12 +19,6 @@
 \details{
   Source: Statistical Abstracts of the United States
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(fatalities)
 summary(fatalities)

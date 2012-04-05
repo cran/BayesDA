@@ -22,12 +22,6 @@
   variables, page 413 of second edition. Original authors assume a quadratic 
   functional form.
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(factorial)
 summary(factorial)

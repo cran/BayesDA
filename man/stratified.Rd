@@ -19,15 +19,6 @@
     \item{\code{proportion}}{sample proportion}
   }
 }
-\details{
-  
-}
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(stratified)
 str(stratified)

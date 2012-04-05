@@ -19,15 +19,6 @@
     \item{\code{Current}}{a factor with levels \code{0} \code{1}}
   }
 }
-\details{
-  
-}
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(rats)
 summary(rats)

@@ -24,12 +24,6 @@
    that affect the central nervous system and can relax the 
    heart musckles).    
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(meta)
 names(meta)

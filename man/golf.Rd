@@ -19,12 +19,6 @@
   This is used for an exercise on nonlinear modelling on page 515
   in the second edition.  
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(golf)
 names(golf)

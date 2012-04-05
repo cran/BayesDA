@@ -19,12 +19,6 @@ List of 4
 \details{
   Concentration of standard was 0.64
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(dilution)
 str(dilution)

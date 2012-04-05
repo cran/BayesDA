@@ -21,12 +21,6 @@
    which schizophrenics suffer from an attentional deficit on some trials, as well as a 
    general motor reflex retardation.  
 }
-\source{
-    
-}
-\references{
-    
-}
 \examples{
 data(schiz)
 str(schiz)

@@ -16,15 +16,6 @@
   ..\$ situation: chr [1:23] "1" "2" "3" "4" ...
   ..\$ person   : chr [1:54] "1" "2" "3" "4" ...
 }
-\details{
-  
-}
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(personality)
 str(personality)

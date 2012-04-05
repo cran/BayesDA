@@ -23,12 +23,6 @@
 \details{
   This is used in exercises pages 242--243 in the book.
 }
-\source{
-  
-}
-\references{
-  
-}
 \examples{
 data(phones)     
 summary(phones)
